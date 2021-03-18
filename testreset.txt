@@ -1,0 +1,5 @@
+Prueba del comando git reset
+primer alta al git commt
+otra linea
+el de otra linea no deberia estar en los logs
+miralo ahoraq

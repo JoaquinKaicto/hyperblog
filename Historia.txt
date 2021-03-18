@@ -1,8 +1,6 @@
 Esta es la historia de:
 Joaquin Martinez Perez
-Tiene 38  años y nació en Mexico
-y vivo en san luis potosi
-Pero soy de Tehuacan
-Mi estatura es de 1.82 m.
-Soy un emprendedor en el mundo de la programación.
-Viviendo la vida
+Tiene 38  años y nació en México
+Mañana hablaremos de su vida laboral
+Prueba del commit y reset
+que hizo el reset?
