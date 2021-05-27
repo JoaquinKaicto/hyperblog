@@ -4,3 +4,6 @@ Tiene 38  años y nació en México
 Mañana hablaremos de su vida laboral
 Prueba del commit y reset
 que hizo el reset?
+
+Joaquin Tester nacio en internet para probar el intercambio
+
